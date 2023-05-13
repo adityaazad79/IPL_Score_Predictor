@@ -6,10 +6,10 @@
 
 
 ## Screenshots
-![Loading...](https://github.com/adityaazad79/IPL_Score_Predictor/blob/main/Images/Screenshot_20230513_103444.png?raw=true)
+![Loading...](https://github.com/adityaazad79/IPL_Score_Predictor_with_Streamlit_Deployment/blob/main/Images/Screenshot_20230513_103444.png?raw=true)
 ### How to use it on your local host.
 ~~~
-git clone https://github.com/adityaazad79/IPL_Score_Predictor.git
+git https://github.com/adityaazad79/IPL_Score_Predictor_with_Streamlit_Deployment.git
 ~~~
 ~~~
 cd IPL_Score_Predictor
