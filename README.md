@@ -2,7 +2,7 @@
 
 ### This webapp is built over streamlit framework.
 
-### The webapp deployemnt [link](https://adityaazad79-ipl-score-predictor-application-2r7oyk.streamlit.app/)
+### The streamlit deployment [link](https://adityaazad79-ipl-score-predictor-application-2r7oyk.streamlit.app/)
 
 
 ## Screenshots
