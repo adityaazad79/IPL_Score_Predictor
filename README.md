@@ -9,10 +9,10 @@
 ![Loading...](https://github.com/adityaazad79/IPL_Score_Predictor_with_Streamlit_Deployment/blob/main/Images/Screenshot_20230513_103444.png?raw=true)
 ### How to use it on your local host.
 ~~~
-git https://github.com/adityaazad79/IPL_Score_Predictor_with_Streamlit_Deployment.git
+git clone https://github.com/adityaazad79/IPL_Score_Predictor_with_Streamlit_Deployment.git
 ~~~
 ~~~
-cd IPL_Score_Predictor
+cd IPL_Score_Predictor_with_Streamlit_Deployment
 ~~~
 ~~~
 pip install -r requirements.txt
