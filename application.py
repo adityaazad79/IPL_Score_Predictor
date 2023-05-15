@@ -74,7 +74,7 @@ venue = ['Brabourne Stadium',
          'Nehru Stadium',
          'OUTsurance Oval']
 innings = [2, 1]
-st.title('Cricket Score Predictor')
+st.title('IPL Score Predictor')
 
 col1, col2 = st.columns(2)
 
